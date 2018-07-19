@@ -1,0 +1,27 @@
+{
+    "Contacts": [{
+            "name": "Nusrat Riaz",
+            "number": "416-606-9999",
+            "email": "nusrat@example.com",
+            "address": "Centennial College Progress Campus"
+        },
+        {
+            "name": "Riaz Ahmed",
+            "number": "416-606-7777",
+            "email": "riaz@example.com",
+            "address": "Centennial College Progress Campus"
+        },
+        {
+            "name": "James Smith",
+            "number": "416-555-7777",
+            "email": "james@example.com",
+            "address": "Centennial College Progress Campus"
+        },
+        {
+            "name": "Sonia Smith",
+            "number": "416-555-2222",
+            "email": "sonia@example.com",
+            "address": "Centennial College Progress Campus"
+        }
+    ]
+}
